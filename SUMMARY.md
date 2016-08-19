@@ -4,7 +4,7 @@
 * [Planteamiento del problema](CONTENIDO/PLANTEAMIENTO_DEL_PROBLEMA.md)
 * [Objetivos](CONTENIDO/OBJETIVOS.md)
 * [Justificación](CONTENIDO/JUSTIFICACION.md)
-* Marco referencial
+* [Marco referencial](CONTENIDO/MARCO_REFERENCIAL.md)
 * Diseño metodológico
 * Cronograma
 * Presupuesto
