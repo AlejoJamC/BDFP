@@ -2,4 +2,5 @@
 
 * Introducción
 * Planteamiento del problema
+* Objetivos
 
