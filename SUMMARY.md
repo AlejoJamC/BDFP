@@ -5,4 +5,5 @@
 * Objetivos
 * Justificación
 * Marco referencial
+* Diseño metodológico
 
