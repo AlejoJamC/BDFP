@@ -6,4 +6,5 @@
 * Justificación
 * Marco referencial
 * Diseño metodológico
+* Cronograma
 
