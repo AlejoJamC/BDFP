@@ -8,5 +8,5 @@
 * [Diseño metodológico](CONTENIDO/DISENO_METODOLOGICO.md)
 * [Cronograma](CONTENIDO/CRONOGRAMA.md)
 * [Presupuesto](CONTENIDO/PRESUPUESTO.md)
-* Bibliografía
+* [Bibliografía](CONTENIDO/BIBLIOGRAFIA.md)
 
