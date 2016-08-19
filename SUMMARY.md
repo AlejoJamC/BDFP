@@ -6,7 +6,7 @@
 * [Justificación](CONTENIDO/JUSTIFICACION.md)
 * [Marco referencial](CONTENIDO/MARCO_REFERENCIAL.md)
 * [Diseño metodológico](CONTENIDO/DISENO_METODOLOGICO.md)
-* Cronograma
+* [Cronograma](CONTENIDO/CRONOGRAMA.md)
 * Presupuesto
 * Bibliografía
 
