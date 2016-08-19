@@ -7,6 +7,6 @@
 * [Marco referencial](CONTENIDO/MARCO_REFERENCIAL.md)
 * [Diseño metodológico](CONTENIDO/DISENO_METODOLOGICO.md)
 * [Cronograma](CONTENIDO/CRONOGRAMA.md)
-* Presupuesto
+* [Presupuesto](CONTENIDO/PRESUPUESTO.md)
 * Bibliografía
 
