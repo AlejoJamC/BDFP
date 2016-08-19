@@ -7,4 +7,5 @@
 * Marco referencial
 * Diseño metodológico
 * Cronograma
+* Presupuesto
 
