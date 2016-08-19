@@ -1,6 +1,6 @@
 # Summary
 
-* [Introducción](introduccion.md)
+* [Introducción](contenido/introduccion.md)
 * Planteamiento del problema
 * Objetivos
 * Justificación
