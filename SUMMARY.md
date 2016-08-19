@@ -8,4 +8,5 @@
 * Diseño metodológico
 * Cronograma
 * Presupuesto
+* Bibliografía
 
