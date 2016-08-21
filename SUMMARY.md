@@ -11,10 +11,9 @@
 * [Glosario](Content/ES/GLOSARIO.md)
 * [Introducción](Content/ES/INTRODUCCION.md)
 * [Planteamiento del problema](Content/ES/PLANTEAMIENTO_DEL_PROBLEMA.md)
-  * [Objetivo General](Content/ES/OBJETIVO_GENERAL.md)
-  * [Objetivos Específicos](Content/ES/OBJETIVOS_ESPECIFICOS.md)
+* [Objetivos](Content/ES/OBJETIVOS.md)
 * [Justificación](Content/ES/JUSTIFICACION.md)
-* [Marco referencial](Content/ES/MARCO_REFERENCIAL.md)
+* [Marco referencial](Content/ES/ANTECEDENTES.md)
     * [Antecedentes](Content/ES/ANTECEDENTES.md)
     * [Marco conceptual](Content/ES/MARCO_CONCEPTUAL.md)
     * [Marco teorico](Content/ES/MARCO_TEORICO.md)
@@ -24,3 +23,4 @@
 * [Cronograma](Content/ES/CRONOGRAMA.md)
 * [Presupuesto](Content/ES/PRESUPUESTO.md)
 * [Bibliografía](Content/ES/BIBLIOGRAFIA.md)
+

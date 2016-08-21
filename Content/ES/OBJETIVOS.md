@@ -1,2 +1,6 @@
-# Objetivos
+# 2. OBJETIVOS
+
+## 2.1 OBJETIVO GENERAL
+
+## 2.2 OBJETIVOS ESPECÍFICOS
 
