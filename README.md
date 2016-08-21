@@ -1,5 +1,18 @@
-# BDFP
+# BACHELOR'S DEGREE FINAL PROJECT \(BDFP\)
 
-My Bachelor's Degree Final Project. 
+Original Title: **SISTEMA PARA LA CAPTURA Y MONITOREO DE LOS SONIDOS DEL CORAZÓN EN EL ENTRENADO DE EVALUACIÓN FÍSICA KOKEN LM-084 PARA EL LABORATORIO DE SIMULACIÓN DE LA FUNDACIÓN MEIS Y LA MUELA S.A.S.**
+
+Bachelor's Degree Final Project. 
+
+
 Program: System Engineering.
+
+Language: Spanish.
+
+Translations: 
+
+* English
+
+
+
 
