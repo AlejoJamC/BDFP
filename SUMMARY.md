@@ -1,20 +1,19 @@
 # Summary
 
 * [README](README.md)
-* [Introducción](CONTENIDO/INTRODUCCION.md)
-* [Planteamiento del problema](CONTENIDO/PLANTEAMIENTO_DEL_PROBLEMA.md)
-    * [Objetivo General](CONTENIDO/objetivo-general.md)
-    * [Objetivos Específicos](CONTENIDO/objetivos-específicos.md)
-* [Objetivos](CONTENIDO/OBJETIVOS.md)
-* [Justificación](CONTENIDO/JUSTIFICACION.md)
-* [Marco referencial](CONTENIDO/MARCO_REFERENCIAL.md)
-    * [Antecedentes](CONTENIDO/antecedentes.md)
-    * Marco conceptual
-    * Marco teorico
-    * Marco tecnologico
-    * Marco legal y estandares
-* [Diseño metodológico](CONTENIDO/DISENO_METODOLOGICO.md)
-* [Cronograma](CONTENIDO/CRONOGRAMA.md)
-* [Presupuesto](CONTENIDO/PRESUPUESTO.md)
-* [Bibliografía](CONTENIDO/BIBLIOGRAFIA.md)
+* [Introducción](Content/ES/INTRODUCCION.md)
+* [Planteamiento del problema](Content/ES/PLANTEAMIENTO_DEL_PROBLEMA.md)
+    * [Objetivo General](Content/ES/OBJETIVO_GENERAL.md)
+    * [Objetivos Específicos](Content/ES/OBJETIVOS_ESPECIFICOS.md)
+* [Justificación](Content/ES/JUSTIFICACION.md)
+* [Marco referencial](Content/ES/MARCO_REFERENCIAL.md)
+    * [Antecedentes](Content/ES/ANTECEDENTES.md)
+    * [Marco conceptual](Content/ES/MARCO_CONCEPTUAL.md)
+    * [Marco teorico](Content/ES/MARCO_TEORICO.md)
+    * [Marco tecnologico](Content/ES/MARCO_TECNOLOGICO.md)
+    * [Marco legal y estandares](Content/ES/MARCO_LEGAL_Y_ESTANDARES.md)
+* [Diseño metodológico](Content/ES/DISENO_METODOLOGICO.md)
+* [Cronograma](Content/ES/CRONOGRAMA.md)
+* [Presupuesto](Content/ES/PRESUPUESTO.md)
+* [Bibliografía](Content/ES/BIBLIOGRAFIA.md)
 
