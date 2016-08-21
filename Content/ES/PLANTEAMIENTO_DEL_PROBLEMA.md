@@ -1,2 +1,6 @@
-# Planteamiento del problema
+# 1. PLANTEAMIENTO DEL PROBLEMA
+
+
+
+
 
