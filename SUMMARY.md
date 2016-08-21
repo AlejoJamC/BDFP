@@ -1,6 +1,7 @@
 # Summary
 
 * [README](README.md)
+* [Cubierta](Content/ES/CUBIERTA.md)
 * [Introducción](Content/ES/INTRODUCCION.md)
 * [Planteamiento del problema](Content/ES/PLANTEAMIENTO_DEL_PROBLEMA.md)
     * [Objetivo General](Content/ES/OBJETIVO_GENERAL.md)
@@ -15,5 +16,5 @@
 * [Diseño metodológico](Content/ES/DISENO_METODOLOGICO.md)
 * [Cronograma](Content/ES/CRONOGRAMA.md)
 * [Presupuesto](Content/ES/PRESUPUESTO.md)
-* [Bibliografía](Content/ES/BIBLIOGRAFIA.md)
+* [Cubierta](cubierta.md)
 
