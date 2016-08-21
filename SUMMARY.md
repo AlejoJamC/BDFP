@@ -14,7 +14,6 @@
 * [Objetivos](Content/ES/OBJETIVOS.md)
 * [Justificación](Content/ES/JUSTIFICACION.md)
 * [Marco referencial](Content/ES/ANTECEDENTES.md)
-    * [Antecedentes](Content/ES/ANTECEDENTES.md)
     * [Marco conceptual](Content/ES/MARCO_CONCEPTUAL.md)
     * [Marco teorico](Content/ES/MARCO_TEORICO.md)
     * [Marco tecnologico](Content/ES/MARCO_TECNOLOGICO.md)
