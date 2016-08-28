@@ -1,8 +1,6 @@
 # Summary
 
 * [README](README.md)
-* [Cubierta](Content/ES/CUBIERTA.md)
-* [Portada](Content/ES/PORTADA.md)
 * [Contenido](Content/ES/CONTENIDO.md)
 * [Lista de tablas](Content/ES/LISTA_DE_TABLAS.md)
 * [Lista de gráficas](Content/ES/LISTA_DE_GRAFICAS.md)
