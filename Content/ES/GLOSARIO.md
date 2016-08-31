@@ -1,5 +1,6 @@
 # GLOSARIO
 
+* Atelocolageno 
 * API
 * Arduino
 * Auscultación 
@@ -10,6 +11,4 @@
 * Simulador medico
 * Sonido del corazón normal
 * Sonido del corazón anormal
-
-
 
