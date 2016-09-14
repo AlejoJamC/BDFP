@@ -6,7 +6,7 @@ Uno de estos simuladores es el Entrenador de Evaluación Física Koken LM-084 de
 
 `Modelo de torso para la adquisición de las técnicas básicas para la evaluación física (Palpación / Percusión / auscultación), al inflar los pulmones de simulación, puede ser practicado percusión normal y anormal, se puede auscultar sonido respiratorio normal y anormal. La auscultación del sonido del corazón normal y anormal también están disponibles (1).`
 
-Este producto es altamente requerido en especial para el entrenamiento de auscultación, en base a esto
+Este producto es requerido en especial para el entrenamiento de auscultación, pero actualmente el equipo no cuenta con ningun modulo de graficación, 
 
 * entrenamiento incompleto, dado que el equpo actual, no cuenta con el modulo de grafic
 * no permite a los estudiantes obtener una experiencia que complemente.
