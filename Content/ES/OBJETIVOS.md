@@ -6,10 +6,9 @@ Desarrollar un complemento tecnológico piloto para el simulador Koken LM-084 de
 
 * cual es el el resultado despues de finalizar el proyecto?
 
-
 ## 2.2 OBJETIVOS ESPECÍFICOS
 
-* caracterizar las diferentes cardiopaitas, a traves del analisis computacional de señales digitales
+* Caracterizar las diferentes cardiopaitas, a traves del analisis computacional de señales digitales
 * Diseñar el esquema electrónico para la recepción, filtro y procesamiento del sonido cardiaco.
 * Codificar el software para graficar la señal digital procesada del sonido cardiaco.
 * Integrar el hardware resultado con el software en un solo dispositivo.
