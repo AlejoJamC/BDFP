@@ -2,9 +2,7 @@
 
 ## 2.1 OBJETIVO GENERAL
 
-Desarrollar un complemento tecnológico piloto para el simulador 'Entrenador de Evaluación Física' Koken LM-084, materializando el resultado de la investigación en un plano, esquema o diseño, así como la creación del prototipo piloto no comercializable
-
-* cual es el el resultado despues de finalizar el proyecto?
+Desarrollar un complemento tecnológico piloto para el simulador 'Entrenador de Evaluación Física' Koken LM-084, materializando el resultado de la investigación en un plano, esquema electrónico y un software de procesamiento de señales digitales, que graficara los sonidos del corazón capturados.
 
 ## 2.2 OBJETIVOS ESPECÍFICOS
 
