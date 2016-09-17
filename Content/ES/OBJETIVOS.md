@@ -6,7 +6,7 @@ Desarrollar un complemento tecnológico piloto para el simulador 'Entrenador de 
 
 ## 2.2 OBJETIVOS ESPECÍFICOS
 
-* Caracterizar las diferentes cardiopatías, a través del análisis computacional de señales digitales.
+* Analizar la presencia de soplos cardiacos en sonido cardiaco a través del análisis computacional de señales digitales y su descripción semiológica.
 * Diseñar el esquema electrónico para la recepción, filtro y procesamiento del sonido cardiaco.
 * Codificar el software para graficar la señal digital procesada del sonido cardiaco.
 * Integrar el hardware resultado con el software en un solo dispositivo.
