@@ -6,14 +6,8 @@ Uno de estos simuladores es el Entrenador de Evaluación Física Koken LM-084 de
 
 `Modelo de torso para la adquisición de las técnicas básicas para la evaluación física (Palpación / Percusión / auscultación), al inflar los pulmones de simulación, puede ser practicado percusión normal y anormal, se puede auscultar sonido respiratorio normal y anormal. La auscultación del sonido del corazón normal y anormal también están disponibles (1).`
 
-Este producto es requerido en especial para el entrenamiento de auscultación, pero actualmente el equipo no cuenta con ningun modulo de graficación, 
+Este producto es altamente requerido en especial para el entrenamiento de auscultación cardíaca, su diseño original contempla la portabilidad y facilidad en el uso como pilares principales (2). Sin embargo, el simulador no posee todas las herramientas para que los estudiantes tengan una experiencia educativa completa en la identificación de los tipos y formas de soplos cardiacos, a pesar de sus texturas realistas y sonidos en alta calidad. No cuenta con ningún módulo de graficación que permita asociar el audio con algún tipo de esquema visual; es decir carece de la representación de las ondas sonaras emitidas en un plano que permita determinar las características del sonido de una forma mucho más precisa y clara.
 
-* entrenamiento incompleto, dado que el equpo actual, no cuenta con el modulo de grafic
-* no permite a los estudiantes obtener una experiencia que complemente.
 
-y en entrevista con el director de la Fundación Meis, el ingeniero electromédico Jaime Santos,
-
-se manifiesta la necesidad de apoyar dicho procedimiento con la captura y monitoreo de los sonidos del corazón graficando dichas señales que están siendo evaluadas en las distintas etapas del aprendizaje de las técnicas básicas de evaluación física.
-
-1 KOKEN CO.,LTD.  Physical Assessment Trainer LM-084 \[en línea\].  Disponible en Internet: &lt;URL: http://www.kokenmpc.co.jp/english/products/life_simulation_models/medical_education/lm-084/index.html&gt;
+(1)(2) KOKEN CO.,LTD.  Physical Assessment Trainer LM-084 \[en línea\].  Disponible en Internet: &lt;URL: [http:\/\/www.kokenmpc.co.jp\/english\/products\/life\_simulation\_models\/medical\_education\/lm-084\/index.html&gt](http://www.kokenmpc.co.jp/english/products/life_simulation_models/medical_education/lm-084/index.html&gt).
 

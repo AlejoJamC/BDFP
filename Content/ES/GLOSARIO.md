@@ -4,6 +4,7 @@
 * API
 * Arduino
 * Auscultación 
+* Auscultación cardiaca
 * IT
 * Palpación
 * Percusión

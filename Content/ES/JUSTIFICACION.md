@@ -28,5 +28,7 @@ buscar datos estadisticos de personal que se capacitan con simuladores en cardio
 
 buscar demanda de simuladores cardiacos.
 
+ con los esquemas de los diferentes soplos cardiacos, proto/meso/tele/sistólicos y diastolicos, asi mismo una ayuda para poder clasificar los soplos por su forma (decreciente, creciente/decreciente y holosistolico) ya que la el plano resultado grafica la onda sonora captada y puede ser usada para .
+
 
 
