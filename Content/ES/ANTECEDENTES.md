@@ -8,6 +8,19 @@ http:\/\/catalogo.unired.edu.co\/cgi-bin\/koha\/opac-detail.pl?biblionumber=2028
 
 buscar en los patentes de estados unidos por la empresa
 clase de patente 623, para protesis y partes medicas
+y en google scholar
 
 agregar en la justificacion, el proceso de enseñanxa aprendizaje, en donde el logro es obtener mejores resultados.
+
+los resultados de la estadistica de minsalud, no hay problema que sean del 2013 o anteriores
+
+https://www.ncbi.nlm.nih.gov/pubmed
+instrumentos medicos sonidos cardiacos
+
+http://www.scielo.cl/
+
+titulos originales y resumen para los antecedentes
+
+si el equipo esta patentado, puede estar el numero de patente, en la caja del producto, preguntar en la fundacion meis
+
 
