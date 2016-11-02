@@ -2,15 +2,15 @@
 
 ## 3.1 OBJETIVO GENERAL
 
-Integrar hardware y desarrollar software como complemento tecnológico piloto para el simulador 'Entrenador de Evaluación Física' Koken LM-084, que permita capturar, procesar y graficar los sonidos del corazon, facilitando el aprendizaje del procedimiento de auscultacion.
+Integrar hardware y desarrollar software como complemento tecnológico piloto para el simulador 'Entrenador de Evaluación Física' Koken LM-084, que permita capturar, procesar y graficar los sonidos del corazón, facilitando el aprendizaje del procedimiento de auscultación.
 
 ## 3.2 OBJETIVOS ESPECÍFICOS
 
-* Obtener y recopilar informacion bibliografica que describa teorica y graficamente los direntes fenomenos acusticos \(soplos cardiacos\) que pueden ser simulados con el 'Entrenador de Evaluación Física' Koken LM-084.
+* Obtener y recopilar información bibliográfica que describa teórica y gráficamente los diferentes fenómenos acústicos (soplos cardiacos) que pueden ser simulados con el 'Entrenador de Evaluación Física' Koken LM-084.
 
 * Diseñar el esquema electrónico para la recepción, filtro y procesamiento del sonido cardiaco.
 
-* Desarrollar el modulo de visualizacion grafica de la señal digital procesada del sonido cardiaco.
+* Desarrollar el módulo de visualización grafica de la señal digital procesada del sonido cardiaco.
 
 * Integrar el hardware con el software en un solo dispositivo.
 
