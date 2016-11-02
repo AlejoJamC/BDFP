@@ -6,11 +6,11 @@ Integrar hardware y desarrollar software como complemento tecnológico piloto pa
 
 ## 2.2 OBJETIVOS ESPECÍFICOS
 
-* Obtener y recopilar informacion bibliografica que describa teorica y graficamente los direntes fenomenos acusticos \(soplos cardiacos\) que pueden ser simulados con el 'Entrenador de Evaluación Física' Koken LM-084. 
+* Obtener y recopilar informacion bibliografica que describa teorica y graficamente los direntes fenomenos acusticos \(soplos cardiacos\) que pueden ser simulados con el 'Entrenador de Evaluación Física' Koken LM-084.
 
 * Diseñar el esquema electrónico para la recepción, filtro y procesamiento del sonido cardiaco.
 
-* Realizar el modulo de visualizacion grafica de la señal digital procesada del sonido cardiaco.
+* Desarrollar el modulo de visualizacion grafica de la señal digital procesada del sonido cardiaco.
 
 * Integrar el hardware resultado con el software en un solo dispositivo.
 
