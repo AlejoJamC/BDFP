@@ -4,11 +4,17 @@
 
 Debido a que la meta de un sistema de  información es "transformar en forma económica los datos y procesos en conocimiento"\[1\], dicha  información se ha convertido en un activo importante, en base a eso el gobierno nacional  expidió la ley estatutaria 1581 de 2012\[2\] cuyos principios y disposiciones protegen los datos personales registrados en cualquier base de datos que los haga susceptibles de tratamiento en territorio colombiano por entidades de naturaleza pública o privada o cuando al responsable del tratamiento o encargado del tratamiento no establecido en territorio nacional le sea aplicable la legislación colombiana en virtud de normas y tratados internacionales.\[3\]
 
+\[1\] Universidad del Cauca. Valor de la información y la tecnología \[en línea\] Disponible en:  &lt;URL:  [http:\/\/fccea.unicauca.edu.co\/old\/valorinformacion.htm](http://fccea.unicauca.edu.co/old/valorinformacion.htm)&gt;
 
+\[2\] Alcaldia de Bogota. Ley Estaturatua 1581 de 2012 \[en linea\] Disponible en: &lt;URL:  [http:\/\/www.alcaldiabogota.gov.co\/sisjur\/normas\/Norma1.jsp?i=49981](http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=49981)&gt;
 
-\[1\] Universidad del Cauca. Valor de la información y la tecnología \[en línea\] Disponible en:  &lt;URL:  [http:\/\/fccea.unicauca.edu.co\/old\/valorinformacion.htm&gt;](http://fccea.unicauca.edu.co/old/valorinformacion.htm)
+\[3\] CÁMARA DE COMERCIO DE BOGOTÁ. ABC PARA PROTEGER LOS DATOS PERSONALES. Antecedentes Normativos \[en línea\] Disponible en: &lt;URL:[https:\/\/colombiadigital.net\/publicaciones\_ccd\/anexos\/certicamara\_proteccion\_datos\_ago28.pdf](https://colombiadigital.net/publicaciones_ccd/anexos/certicamara_proteccion_datos_ago28.pdf)&gt;\[citado en 2013\]
 
-\[2\] Alcaldia de Bogota. Ley Estaturatua 1581 de 2012 \[en linea\] Disponible en: &lt;URL:  [http:\/\/www.alcaldiabogota.gov.co\/sisjur\/normas\/Norma1.jsp?i=49981](http://www.alcaldiabogota.gov.co/sisjur/normas/Norma1.jsp?i=49981) &gt;
+### 4.5.2  IEEE.
 
-\[3\] CÁMARA DE COMERCIO DE BOGOTÁ. ABC PARA PROTEGER LOS DATOS PERSONALES. Antecedentes Normativos \[en línea\] Disponible en: &lt;URL:[https:\/\/colombiadigital.net\/publicaciones\_ccd\/anexos\/certicamara\_proteccion\_datos\_ago28.pdf](https://colombiadigital.net/publicaciones_ccd/anexos/certicamara_proteccion_datos_ago28.pdf) &gt;\[citado en 2013\]
+Es una asociación dedicada a promover la innovación y la excelencia tecnológica para el beneficio de la humanidad, es la mayor sociedad profesional técnica del mundo. Está diseñado para servir a profesionales involucrados en todos los aspectos de los campos eléctricos, electrónicos, informáticos y áreas relacionadas de la ciencia y la tecnología que subyacen a la civilización moderna \[1\]. El IEEEISA tiene un portafolio de más de 900 estándares activos y más de 500 estándares en construcción. La IEEE actualmente cuenta con proyectos directamente relacionados con simuladores de vida, simuladores cardiacos y trabajos con el proceso de auscultación de los sonidos del corazón, todos estos proyectos son para ayudar en el diagnostico e identificación de particularidades en el ciclo cardiaco\[2\].
+
+\[1\] IEEE. IEEE History \[en línea\] Disponible en: &lt;URL: [http:\/\/www.ieee.org\/about\/ieee\_history.html](http://www.ieee.org/about/ieee_history.html)&gt;
+
+\[2\] IEEE. IEEE Xplore Digital Library \[en línea\] Disponible en: &lt;URL: [http:\/\/ieeexplore.ieee.org\/search\/searchresult.jsp?queryText=heart%20sound%20auscultation&newsearch=true](http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=heart%20sound%20auscultation&newsearch=true)&gt;
 
