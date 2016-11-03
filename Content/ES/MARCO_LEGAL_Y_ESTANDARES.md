@@ -22,7 +22,7 @@ Es una asociación dedicada a promover la innovación y la excelencia tecnológi
 
 La Organización Internacional de Estandarización es la encargada de promover el desarrollo de estándares internacionales de fabricación, comercio y comunicación para todas las ramas industriales, actividades tradicionales como agricultura y construcción, ingeniería mecánica, el sector del transporte, tecnologías de información y comunicaciones a excepción de la eléctrica y la electrónica. Adoptar los estándares ISO aseguran que los productos y servicios son seguros, fiables y de buena calidad.
 
-### 4.5.4  Ley General de Educación. \(Ley 115 de febrero 8 de 1994\).
+### 4.5.4   Ley 115 de febrero 8 de 1994: Ley General de Educación.
 
 "ARTÍCULO 1°. Objeto de la ley. La educación es un proceso de formación permanente, personal, cultural y social que se fundamenta en una concepción integral de la persona humana, de su dignidad, de sus derechos y de sus deberes.
 
@@ -31,8 +31,4 @@ La presente ley señala las normas generales para regular el Servicio Público d
 De conformidad con el artículo 67 de la Constitución Política, define y desarrolla la organización y la prestación de la educación formal en sus niveles preescolar, básica \(primaria y secundaria\) y media, no formal e informal, dirigida a niños y jóvenes en edad escolar, a adultos, a campesinos, a grupos étnicos, a personas con limitaciones físicas, sensoriales y psíquicas, con capacidades excepcionales, y a personas que requieran rehabilitación social.”\[1\]
 
 [\[1\]](#_ftnref1) COLOMBIA. CONGRESO DE LA REPUBLICA. Ley 115. \(8, Febrero, 1994\), Por la cual se expide la ley general de educación. Diario Oficial. Bogotá, D.C. 1994. No 41.214 \[En Línea\]. \[Consultado 4 Abril de 2016\]. Disponible en Internet: &lt;URL: [http:\/\/www.secretariasenado.gov.co\/senado\/basedoc\/ley\_0115\_1994.html](http://www.secretariasenado.gov.co/senado/basedoc/ley_0115_1994.html) &gt;
-
-
-
-
 
