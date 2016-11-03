@@ -18,3 +18,23 @@ Es una asociación dedicada a promover la innovación y la excelencia tecnológi
 
 \[2\] IEEE. IEEE Xplore Digital Library \[en línea\] Disponible en: &lt;URL: [http:\/\/ieeexplore.ieee.org\/search\/searchresult.jsp?queryText=heart%20sound%20auscultation&newsearch=true](http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=heart%20sound%20auscultation&newsearch=true)&gt;
 
+### 4.5.3 ISO \(International Organization for Standardization\).
+
+La Organización Internacional de Estandarización es la encargada de promover el desarrollo de estándares internacionales de fabricación, comercio y comunicación para todas las ramas industriales, actividades tradicionales como agricultura y construcción, ingeniería mecánica, el sector del transporte, tecnologías de información y comunicaciones a excepción de la eléctrica y la electrónica. Adoptar los estándares ISO aseguran que los productos y servicios son seguros, fiables y de buena calidad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
