@@ -7,7 +7,6 @@
 * [Lista de figuras](Content/ES/LISTA_DE_FIGURAS.md)
 * [Lista de anexos](Content/ES/LISTA_DE_ANEXOS.md)
 * [Glosario](Content/ES/GLOSARIO.md)
-* [Introducción](Content/ES/INTRODUCCION.md)
 * [Planteamiento del problema](Content/ES/PLANTEAMIENTO_DEL_PROBLEMA.md)
 * [Objetivos](Content/ES/OBJETIVOS.md)
 * [Justificación](Content/ES/JUSTIFICACION.md)
