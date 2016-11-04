@@ -1,4 +1,4 @@
-# 2. JUSTIFICACIÓN
+# 3. JUSTIFICACIÓN
 
 La Muela S.A.S. es una empresa santandereana dedicada a importar, distribuir y asesorar en su uso, material y equipo médico-odontológico, médico-quirúrgico, laboratorio clínico, veterinaria, protección y seguridad industrial, a entidades prestadoras de servicios de salud, empresas estatales y profesionales independientes \(1\).
 
