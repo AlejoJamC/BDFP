@@ -103,14 +103,13 @@ Durante el proceso de desarrollo cuando se discute del "frontend" de la web o ap
 En años anteriores, cuando alguien hablaba de desarrollo de software por lo general se refiere al backend, pero en los actualmente ha habido una verdadera necesidad de diferenciar entre los diseñadores que trabajaban estrictamente en Photoshop y los que podían codificar HTML y CSS. Se acortaron más los limites cuando los diseñadores empezaron a trabajar con JavaScript y jQuery.
 Entonces todo lo que ves al usar la web o tu aplicación es una combinación de HTML, CSS, JavaScript, XAML, AXML y otros lenguajes de marcado que existen en el mercado. Estos incluyen cosas como fuentes, menús desplegables, botones, transiciones, deslizadores, formularios de contacto, etc.
 
-
 ### 4.2.10 Desarrollo Back-End.
 
 El backend normalmente consta de tres partes: un servidor, una aplicación y una base de datos. Cuando se utiliza un sistema de información para cualquier necesidad, normalmente abre un sitio web e interactúa con el frontend. Una vez que haya ingresado esa información, la aplicación la almacena en una base de datos que se creó en un servidor. Toda esa información permanece en el servidor, así que cuando vuelva a iniciar sesión en la aplicación, toda la información aún está en su cuenta. Básicamente en el backend se construye toda esta lógica y las tecnologías de backend generalmente consisten en lenguajes como PHP, Ruby, Python, etc. Para que sean aún más fáciles de usar, suelen ser mejorados por frameworks como Ruby on Rails, Cake PHP y Laravel que hacen que el desarrollo sea más rápido y fácil de colaborar.
 
 ### 4.2.11 Middleware.
 
-El Middleware es una capa de software o un conjunto de sub-capas interpuestas entre los niveles de aplicación y tecnología. Su característica de ocultar los detalles de las diferentes tecnologías es fundamental para eximir al programador de temas que no están directamente relacionados con su enfoque. El middleware está ganando cada vez más importancia en los últimos años debido a su importante papel en la simplificación del desarrollo de nuevos servicios y la integración de las tecnologías existentes en otros nuevos. Este exceptúa el programador del conocimiento exacto del conjunto heterogéneo de las tecnologías adoptadas por las capas inferiores. \[11\]
+El Middleware es una capa de software o un conjunto de sub-capas interpuestas entre los niveles de aplicación y tecnología. Su característica de ocultar los detalles de las diferentes tecnologías es fundamental para eximir al programador de temas que no están directamente relacionados con su enfoque. El middleware está ganando cada vez más importancia en los últimos años debido a su importante papel en la simplificación del desarrollo de nuevos servicios y la integración de las tecnologías existentes en otros nuevos. \[11\]
 
 \[1\] https:\/\/msdn.microsoft.com\/en-us\/library\/ee658098.aspx
 
@@ -132,5 +131,5 @@ El Middleware es una capa de software o un conjunto de sub-capas interpuestas en
 
 \[10\] http:\/\/www.lab.inf.uc3m.es\/~a0080802\/RAI\/mvc.html
 
-\[11\]  ATZORI, Luigi; LERA, Antonio y MORABITO, Giacomo. Journal Computer Networks: The International Journal of Computer and Telecommunications Networking. The Internet of Things: A survey \[en línea\] Disponible en: [https:\/\/cs.uwaterloo.ca\/~brecht\/courses\/854-Emerging-2014\/readings\/iot\/iot-survey.pdf](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/iot/iot-survey.pdf) \[citado el 01 de Junio de 2010\] 
+\[11\]  ATZORI, Luigi; LERA, Antonio y MORABITO, Giacomo. Journal Computer Networks: The International Journal of Computer and Telecommunications Networking. The Internet of Things: A survey \[en línea\] Disponible en: [https:\/\/cs.uwaterloo.ca\/~brecht\/courses\/854-Emerging-2014\/readings\/iot\/iot-survey.pdf](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/iot/iot-survey.pdf) \[citado el 01 de Junio de 2010\]
 
