@@ -50,27 +50,55 @@ Para utilizar o aplicar estos conceptos y objetivos se han desarrollado ciertos 
 * Arquitectura Cebolla
 
 
-### 4.2.2 Patrón Arquitectónico
+### 4.2.2 Componente.
+
+Por definición un componente encapsula una parte del software del sistema, contiene una interfaz con la que se comunican otras partes del sistema y estas sirven de base de la estructura de todo el software. A nivel de programación los componentes son representados como módulos, clases, objetos y funciones.
+
+### 4.2.3 Subsistema.
+
+Un subsistema es un conjunto de Componentes que realizan una tarea determinada, se considera una entidad separada dentro de la arquitectura de software, puede interactuar con otros subsistemas y componentes.
+
+### 4.2.4 Patrón Arquitectónico.
 
 Un patrón arquitectónico expresa la organización estructural fundamental de un sistema de software en un esquema. Proporciona un conjunto de subsistemas predefinidos, sus responsabilidades e incluye normas y directrices para organizando las relaciones entre ellos.
 
-### 4.2.3 Arquitectura Cliente-Servidor.
+### 4.2.5 Arquitectura Cliente-Servidor.
 
 El patrón Cliente-Servidor \(Client-Server Architecture\)  es un modelo de arquitectura de software que básicamente integra dos partes, sistemas cliente y sistemas de servidor, que se comunican a través de una red de ordenadores o en el mismo ordenador. La aplicación de servidor de cliente proporciona una mejor manera de compartir la carga de trabajo. El cliente siempre inicia una conexión con el servidor, mientras que el servidor siempre espera las solicitudes de cualquier cliente. Las arquitecturas cliente-servidor a veces se llaman arquitecturas de dos niveles\(Two-Tier\).
 
 Figura 2 Diagrama del patrón cliente-servidor
 
-### 4.2.4  Arquitectura en Capas
+### 4.2.6  Arquitectura en Capas.
 
 El patrón de arquitectura en capas \(Layered Architecture\) se enfoca en el agrupamiento de la funcionalidad relacionada dentro de una aplicación en distintas capas que se apilan verticalmente una encima de otra. La funcionalidad dentro de cada capa está relacionada por un rol o responsabilidad común. La comunicación entre capas es explícita y ligeramente acoplada. Realizar una buena selección de las preocupaciones de cada capa apoya la flexibilidad y la facilidad de mantenimiento.
 
  Figura 3 arquitectura en capas.
 
-### 4.2.5 Arquitectura de Microservicios
+### 4.2.7 Arquitectura de Microservicios.
 
 El término "Arquitectura de Microservicios" ha surgido en los últimos años para describir una forma particular de diseñar aplicaciones de software como suites de servicios desplegables de forma independiente. Si bien no existe una definición precisa de este estilo arquitectónico, existen ciertas características comunes alrededor de la organización en torno a la capacidad empresarial, el despliegue automatizado, la inteligencia en los puntos finales y el control descentralizado de lenguajes y datos \[6\].
 
-### 4.2.6 Modelo Vista Controlador \(MVC\).
+### 4.2.8 Modelo Vista Controlador \(MVC\).
+
+Model View Controller \(MVC\) es un patrón de diseño para software de computadora. Este enfoque busca distinguir entre el modelo de datos, el control de procesamiento y la interfaz de usuario. Separa cuidadosamente la interfaz gráfica mostrada al usuario del código que gestiona las acciones del usuario. El objetivo es proporcionar un marco que imponga un diseño mejor y más preciso. En cuanto a la comunicación entre las partes es directa.
+
+Figura 4 modelo vista controlador.
+
+Existen unas variaciones en la forma de implementar el mismo patron, entre las que tenemos:
+
+* El modelo pasivo, en el que se emplea un controlador para manipula el modelo exclusivamente. El controlador modifica el modelo y luego informa a la vista que el modelo ha cambiado y debe actualizarse \(ver Figura 5\). El modelo en este escenario es completamente independiente de la vista y el controlador, lo que significa que no hay ningún medio para que el modelo informe de cambios en su estado. El protocolo HTTP es un ejemplo de esto. No hay una forma sencilla en el navegador para obtener actualizaciones asíncronas desde el servidor. El navegador muestra la vista y responde a la entrada del usuario, pero no detecta cambios en los datos del servidor. Sólo cuando el usuario solicita explícitamente una actualización es el servidor interrogado para realizar cambios.
+
+* Figura 5 Comportamiento del modelo pasivo.
+
+* Modelo Activo, este modelo se utiliza cuando el modelo cambia de estado sin la participación del controlador. Esto puede ocurrir cuando otras fuentes están cambiando los datos y los cambios deben reflejarse en las vistas. Considere una visualización de stock-ticker. Recibe datos de stock de una fuente externa y desea actualizar las vistas \(por ejemplo, una banda de ticker y una ventana de alerta\) cuando cambia los datos de stock. Debido a que sólo el modelo detecta cambios en su estado interno cuando se producen, el modelo debe notificar las vistas para actualizar la pantalla.
+
+  Sin embargo, una de las motivaciones del uso del patrón MVC es hacer que el modelo sea independiente de las vistas. Para respetar esto se utiliza un patrón de desarrollo llamado Observer, el cual proporciona un mecanismo para alertar a otros objetos de cambios de estado sin introducir dependencias en ellos. Las vistas individuales implementan la interfaz Observer y se registran con el modelo. El modelo rastrea la lista de todos los observadores que se suscriben a los cambios. Cuando un modelo cambia, el modelo itera a través de todos los observadores registrados y los notifica del cambio. Este enfoque se denomina a menudo "publicar-suscribirse".
+
+* Figura 6 Modelo activo utilizando el patrón Observer.
+
+ 
+
+
 
 ### 4.2. Desarrollo Front-End.
 
@@ -93,4 +121,10 @@ El término "Arquitectura de Microservicios" ha surgido en los últimos años pa
 \[6\] http:\/\/www.martinfowler.com\/articles\/microservices.html
 
 \[7\] http:\/\/www.nyu.edu\/classes\/jcf\/g22.3033-007\/slides\/session2\/g22\_3033\_011\_c23.pdf
+
+\[8\] https:\/\/msdn.microsoft.com\/en-us\/library\/ff649643.aspx
+
+\[9\] https:\/\/www.techopedia.com\/definition\/3842\/model-view-controller-mvc
+
+\[10\] http:\/\/www.lab.inf.uc3m.es\/~a0080802\/RAI\/mvc.html
 
