@@ -56,11 +56,15 @@ El patrón Cliente-Servidor \(Client-Server Architecture\)  es un modelo de arqu
 
 Figura 2 Diagrama del patrón cliente-servidor
 
-### 4.2.3  Arquitectura en Capas 
+### 4.2.3  Arquitectura en Capas
 
 El patrón de arquitectura en capas \(Layered Architecture\) se enfoca en el agrupamiento de la funcionalidad relacionada dentro de una aplicación en distintas capas que se apilan verticalmente una encima de otra. La funcionalidad dentro de cada capa está relacionada por un rol o responsabilidad común. La comunicación entre capas es explícita y ligeramente acoplada. Realizar una buena selección de las preocupaciones de cada capa apoya la flexibilidad y la facilidad de mantenimiento.
 
-  Figura 3 arquitectura en capas.
+ Figura 3 arquitectura en capas.
+
+### 4.2.4 Arquitectura de Microservicios
+
+El término "Arquitectura de Microservicios" ha surgido en los últimos años para describir una forma particular de diseñar aplicaciones de software como suites de servicios desplegables de forma independiente. Si bien no existe una definición precisa de este estilo arquitectónico, existen ciertas características comunes alrededor de la organización en torno a la capacidad empresarial, el despliegue automatizado, la inteligencia en los puntos finales y el control descentralizado de lenguajes y datos \[6\].
 
 ### 4.2. Modelo Vista Controlador \(MVC\).
 
@@ -89,4 +93,6 @@ El patrón de arquitectura en capas \(Layered Architecture\) se enfoca en el agr
 \[4\] https:\/\/www.pearsonhighered.com\/program\/Fowler-Patterns-of-Enterprise-Application-Architecture\/PGM298863.html
 
 \[5\] L. Bass, P. Clements, R. Kazman, Software Architecture in Practice, 2nd Edition, Addison Wesley, 2003
+
+\[6\] http:\/\/www.martinfowler.com\/articles\/microservices.html
 
