@@ -24,19 +24,14 @@ Con el fin de afianzar la formulación del problema se realizó una investigaci�
 
 \[4\] JAHAN Sarwar, HOSSAIN Aowlad. Universidad de Ingeniería y Tecnología de Khulna. A low cost stethoscopic system for real time auscultation of heart sound Artículo de investigación. \[en línea\] Disponible en: &lt;URL: [http:\/\/ieeexplore.ieee.org\/document\/6850764](http://ieeexplore.ieee.org/document/6850764) &gt; \[citado el 10 de julio de 2014\].
 
-* El proyecto **"Design and development of wireless stethoscope with data logging function" **\[5\]
+* El proyecto **"Design and development of wireless stethoscope with data logging function" **\[5\]  fue desarrollado para monitorear y mostrar el sonido del latido del corazón usando un estetoscopio digital inalámbrico, teniendo en cuenta que el estetoscopio es especial para escuchar el sonido del latido cardíaco y controlar la enfermedad pulmonar. El tipo más de estetoscopio utilizado en estos días es el estetoscopio acústico. Sin embargo, el problema con este estetoscopio acústico es el nivel de sonido muy bajo. Es difícil de analizar el sonido del corazón y difícil de ser diagnosticado por un médico. Por otro lado, el micrófono del condensador que se utiliza como un sensor para capturar la baja sensibilidad de la señal, en este caso fue utilizado para capturar la señal del sonido del corazón. ZigBee Pro Series 1 módulo inalámbrico se utiliza para enviar la señal de latido del corazón de forma inalámbrica en el rango de 100 metros. El microcontrolador Arduino Nano y el Arduino Mega se utilizaron como plataforma para procesar la señal y enviar el resultado al ordenador. La interfaz gráfica de usuario \(GUI\) fue desarrollada usando el software MATLAB para monitorear la forma de onda del electrocardiograma \(ECG\) en tiempo real y para el propósito de registro de datos. El resultado muestra que este dispositivo es capaz de transmitir y recibir la forma de onda ECG de forma inalámbrica. La señal de ECG se puede registrar a través de la aplicación de registro de datos para su posterior análisis por el personal médico.
+
 
 \[5\] S. Nur Hidayah Malek,  W. Suhaimizan Wan Zaki, A. Joret,  M. Mahadi Abdul Jamil.  Universiti Tun Hussein Onn: Departamento de Ingeniería Electrónica. Design and development of wireless stethoscope with data logging function. Artículo de investigación. \[en línea\] Disponible en: &lt;URL: http:\/\/ieeexplore.ieee.org\/document\/6719946\/ &gt; \[citado el 23 de enero de 2014\].
-
 
 * El proyecto **"Development of smartphone-based stethoscope system"** \[6\]
 
 \[6\] JI YUN Shin, SEHI L'Yi, DONG HYUN Jo, JIN HO Bae, TAE SOO Lee. Universidad Nacional de Chungbuk: Department of Biomedical Engineering, Department of Computer System Engineering, Departamento de Anestesiología y Medicina del Dolor. Development of smartphone-based stethoscope system. Artículo de investigación. \[en línea\] Disponible en: &lt;URL: [http:\/\/ieeexplore.ieee.org\/document\/6704150\/](http://ieeexplore.ieee.org/document/6704150/) &gt; \[citado el 09 de enero de 2014\].
-
-
-
-
-
 
 ---
 
