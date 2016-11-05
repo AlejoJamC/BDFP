@@ -2,14 +2,17 @@
 
 ### 4.4.1  Lenguajes de programación
 
-#### 4.4.1.1 Javascript 
+#### 4.4.1.1 Javascript
 
 JavaScript \(a menudo abreviado a JS\) es un lenguaje ligero, interpretado, orientado a objetos con funciones de primera clase, y es mejor conocido como el lenguaje de scripting para páginas Web, pero también se utiliza en muchos entornos que no son de navegador, como node.js y Apache CouchDB. Es un lenguaje de scripting de múltiples paradigmas basado en prototipos que es dinámico y soporta estilos de programación orientados a objetos, imperativos y funcionales.
-JavaScript se ejecuta en el lado del cliente de la web, que se puede utilizar para diseñar \/ programar cómo se comportan las páginas web en la ocurrencia de un evento. JavaScript es un lenguaje de scripting fácil de aprender y potente, ampliamente utilizado para controlar el comportamiento de las páginas web.
-JavaScript es un lenguaje de scripting dinámico que soporta la construcción de objetos basados en prototipos. La sintaxis básica es intencionalmente similar a Java y C ++ para reducir el número de nuevos conceptos requeridos para aprender el idioma. Las construcciones de lenguaje, como las sentencias if, for y while loops, y switch and try ... catch blocks funcionan igual que en estos lenguajes \(o casi\).
-JavaScript puede funcionar como un lenguaje orientado a procedimientos y orientado a objetos. Los objetos se crean mediante programación en JavaScript, adjuntando métodos y propiedades a objetos vacíos en tiempo de ejecución, en contraposición a las definiciones de clases sintácticas comunes en lenguajes compilados como C ++ y Java. Una vez que un objeto ha sido construido puede ser utilizado como un modelo \(o prototipo\) para crear objetos similares.
-Las capacidades dinámicas de JavaScript incluyen la construcción de objetos en tiempo de ejecución, las listas de parámetros variables, las variables de función, la creación de secuencias dinámicas \(vía eval\), la introspección de objetos \(vía para ... in\) y la recuperación de código fuente \(los programas JavaScript pueden volver a descomprimir los cuerpos funcionales en su texto fuente\). \[1\]
 
+JavaScript se ejecuta en el lado del cliente de la web, que se puede utilizar para diseñar \/ programar cómo se comportan las páginas web en la ocurrencia de un evento. JavaScript es un lenguaje de scripting fácil de aprender y potente, ampliamente utilizado para controlar el comportamiento de las páginas web.
+
+JavaScript es un lenguaje de scripting dinámico que soporta la construcción de objetos basados en prototipos. La sintaxis básica es intencionalmente similar a Java y C ++ para reducir el número de nuevos conceptos requeridos para aprender el idioma. Las construcciones de lenguaje, como las sentencias if, for y while loops, y switch and try ... catch blocks funcionan igual que en estos lenguajes \(o casi\).
+
+JavaScript puede funcionar como un lenguaje orientado a procedimientos y orientado a objetos. Los objetos se crean mediante programación en JavaScript, adjuntando métodos y propiedades a objetos vacíos en tiempo de ejecución, en contraposición a las definiciones de clases sintácticas comunes en lenguajes compilados como C ++ y Java. Una vez que un objeto ha sido construido puede ser utilizado como un modelo \(o prototipo\) para crear objetos similares.
+
+Las capacidades dinámicas de JavaScript incluyen la construcción de objetos en tiempo de ejecución, las listas de parámetros variables, las variables de función, la creación de secuencias dinámicas \(vía eval\), la introspección de objetos \(vía para ... in\) y la recuperación de código fuente \(los programas JavaScript pueden volver a descomprimir los cuerpos funcionales en su texto fuente\). \[1\]
 
 #### 4.4.1.2 C++
 
@@ -31,22 +34,64 @@ El intérprete de Python puede extenderse fácilmente con nuevas funcionalidades
 
 PHP \(acrónimo recursivo de _PHP: Hypertext Preprocessor_\) es un lenguaje de código abierto muy popular especialmente adecuado para el desarrollo web y que puede ser incrustado en HTML.
 
-En lugar de usar muchos comandos para mostrar HTML \(como en C o en Perl\), las páginas de PHP contienen HTML con código incrustado que hace "algo" \(en este caso, mostrar "¡Hola, soy un script de PHP!\). El código de PHP está encerrado entre las [etiquetas especiales de comienzo y final ](http://php.net/manual/es/language.basic-syntax.phpmode.php)[`<?php`](http://php.net/manual/es/language.basic-syntax.phpmode.php)[ y ](http://php.net/manual/es/language.basic-syntax.phpmode.php)[`?>`](http://php.net/manual/es/language.basic-syntax.phpmode.php) que permiten entrar y salir del "modo PHP". 
+En lugar de usar muchos comandos para mostrar HTML \(como en C o en Perl\), las páginas de PHP contienen HTML con código incrustado que hace "algo" \(en este caso, mostrar "¡Hola, soy un script de PHP!\). El código de PHP está encerrado entre las [etiquetas especiales de comienzo y final ](http://php.net/manual/es/language.basic-syntax.phpmode.php)`<?php`[ y ](http://php.net/manual/es/language.basic-syntax.phpmode.php)`?>` que permiten entrar y salir del "modo PHP".
 
 Lo que distingue a PHP de algo del lado del cliente como Javascript es que el código es ejecutado en el servidor, generando HTML y enviándolo al cliente. El cliente recibirá el resultado de ejecutar el script, aunque no se sabrá el código subyacente que era. El servidor web puede ser configurado incluso para que procese todos los ficheros HTML con PHP, por lo que no hay manera de que los usuarios puedan saber qué se tiene debajo de la manga.
 
 Lo mejor de utilizar PHP es su extrema simplicidad para el principiante, pero a su vez ofrece muchas características avanzadas para los programadores profesionales. No sienta miedo de leer la larga lista de características de PHP. En unas pocas horas podrá empezar a escribir sus primeros scripts.\[4\]
 
+### 4.4.2 Bases de Datos
+
+#### 4.4.2.1 MongoDB
+
+MongoDB es una base de datos de documentos de código abierto, esto quiere decir que, en lugar de guardar los datos en registros, guarda los datos en documentos. Estos documentos son almacenados en BSON, que es una representación binaria de JSON. Además, está diseñada para facilitar el desarrollo y la ampliación. Proporciona alto rendimiento, alta disponibilidad y escalado automático. \[5\]
+
+Como se comento anteriormente un registro en MongoDB es un documento, que es una estructura de datos compuesta por pares de campo y valor. Los documentos MongoDB son similares a los objetos JSON. Los valores de los campos pueden incluir otros documentos, matrices y matrices de documentos.
+
+Figura 7 Documento de Mongodb.
+
+Entre las principales ventajas de usar documentos tenemos:
+
+* Los documentos \(es decir, objetos\) corresponden a tipos de datos nativos en muchos lenguajes de programación.
+
+* Los documentos incrustados y las matrices reducen la necesidad de uniones costosas.
+
+* El esquema dinámico soporta el polimorfismo fluido \[6\].
+
+#### 4.4.2.2 Firebase
+
+Una base de datos NoSQL alojada en la nube. Los datos se almacenan en formato JSON, se sincronizan en milisegundos en todos los dispositivos conectados y están disponibles cuando tu app pierde la conexión.
+
+* API intuitiva y fácil de usar
+* Mantiene su capacidad de respuesta independientemente de la latencia de la red o la conectividad a Internet, por lo que tu app Firebase funciona sin conexión. Los datos se sincronizan cuando se recupera la conectividad.
+* Es compatible con la complejidad de la sincronización en tiempo real y proporciona resolución flexible de conflictos.
+* Se puede acceder directamente desde los SDK del cliente, o desde tu servidor con la API REST.
+
+Entre las ventajas de usar database podemos aprovechar que en lugar de solicitudes típicas de HTTP, la Firebase Realtime Database usa sincronización de dato, cada vez que los datos cambian, cualquier dispositivo conectado recibe esa actualización dentro de milisegundos. Proporciona experiencias colaborativas e inmersivas sin pensar en el código de red.
+
+En la forma en que fue programada o construida podemos aprovechar que las app de Firebase se mantienen receptivas incluso cuando están sin conexión porque el SDK Firebase Realtime Database hace que tus datos persistan en el disco. Una vez que la conectividad se reestablece el dispositivo del cliente recibe cualquier modificación que se haya perdido, sincronizándola con el estado actual del servidor.
+
+Y finalmente se puede acceder de forma directa a Firebase Realtime Database desde un dispositivo móvil o desde el navegador web, no se necesita un servidor de apps. La seguridad y la validación de datos están disponibles a través de las Security Rules de Firebase Realtime Database, reglas basadas en expresiones que se ejecutan cuando se leen o se escriben los datos.\[7\]
 
 
 
-MongoDB
 
-es una base de datos orientada a documentos de código abierto que proporciona alto rendimiento, alta disponibilidad y escalado automático.
 
-Javascript
 
-\(acortado a menudo a JS\) es un lenguaje interpretado, orientado a objetos con funciones alto nivel, más conocido como el lenguaje de script para páginas Web {10}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Node.js
 
@@ -64,8 +109,6 @@ Bootstrap
 
 en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto {9}.
 
-
-
 \[1\] https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/About\_JavaScript
 
 \[2\] https:\/\/isocpp.org\/wiki\/faq\/big-picture\#what-is-cpp
@@ -74,9 +117,9 @@ en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo 
 
 \[4\] http:\/\/php.net\/manual\/es\/intro-whatis.php
 
+\[5\] https:\/\/docs.mongodb.com\/manual\/
 
+\[6\] https:\/\/docs.mongodb.com\/manual\/introduction\/
 
-
-
-
+\[7\] https:\/\/firebase.google.com\/docs\/database\/
 
