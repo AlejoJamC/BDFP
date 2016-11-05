@@ -58,6 +58,7 @@ Entre las principales ventajas de usar documentos tenemos:
 
 * El esquema dinámico soporta el polimorfismo fluido \[6\].
 
+
 #### 4.4.2.2 Firebase
 
 Una base de datos NoSQL alojada en la nube. Los datos se almacenan en formato JSON, se sincronizan en milisegundos en todos los dispositivos conectados y están disponibles cuando tu app pierde la conexión.
@@ -73,31 +74,13 @@ En la forma en que fue programada o construida podemos aprovechar que las app de
 
 Y finalmente se puede acceder de forma directa a Firebase Realtime Database desde un dispositivo móvil o desde el navegador web, no se necesita un servidor de apps. La seguridad y la validación de datos están disponibles a través de las Security Rules de Firebase Realtime Database, reglas basadas en expresiones que se ejecutan cuando se leen o se escriben los datos.\[7\]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Node.js
+### 4.4.3 Node.js
 
 es un intérprete de javascript contruido sobre el motor de javascript V8 de Chrome {5}.
 
-Express.js
+### 4.4.4 Frameworks
+
+#### 4.4.4.1 Express.js
 
 que está diseñado como un marco de trabajo minimalista y flexible para aplicaciones web que proporciona un sólido conjunto de características para la web y aplicaciones móviles {7}.
 
@@ -108,6 +91,10 @@ librería de maquetedo de javascript que organiza y limpia el código de la inte
 Bootstrap
 
 en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto {9}.
+
+### 4.4.5 Arduino
+
+### 4.4.6 Raspberry Pi
 
 \[1\] https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/About\_JavaScript
 
