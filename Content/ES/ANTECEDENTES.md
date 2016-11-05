@@ -15,6 +15,36 @@ Con el fin de afianzar la formulación del problema se realizó una investigaci�
 
 \[2\] REDLARSKI Grzegorzv, GRADOLEWSKI Dawid, PALKOWSKI Aleksander. Universidad tecnológica de Gdansk: Departamento de Mecatrónica e Ingeniería de Alto Voltaje. A System for Heart Sounds Classification. Artículo de investigación. \[en línea\] Disponible en: &lt;URL: [http:\/\/dx.doi.org\/10.1371\/journal.pone.0112673](http://dx.doi.org/10.1371/journal.pone.0112673) &gt; \[citado el 13 de noviembre de 2014\]
 
+* **"A low cost stethoscopic system for real time auscultation of heart sound"** \[3\] En este trabajo, se presenta un sistema estetoscopio basado en microcontroladores para la auscultación del corazón, teniendo en cuenta que la auscultación de los sonidos cardíacos tiene una gran importancia ya que están relacionados con la anatomía y la fisiología de los sistemas cardiovasculares, así como con el diagnóstico de la enfermedad cardiovascular, pero con un énfasis estratégico en la capacidad de bajo costo y en tiempo real. El sistema se compone de sensor acústico, filtro, sistema de procesamiento de señales, altavoces y dispositivos de visualización. El rendimiento de este dispositivo es bueno en términos de precisión y además el presupuesto necesario para su producción está alrededor de $11 USD lo que lo hace mucho más barato en comparación con otros estetoscopios digitales disponibles en el mercado.
+
+\[3\] JAHAN Sarwar, HOSSAIN Aowlad. Universidad de Ingeniería y Tecnología de Khulna. A low cost stethoscopic system for real time auscultation of heart sound Artículo de investigación. \[en línea\] Disponible en: &lt;URL: [http:\/\/ieeexplore.ieee.org\/document\/6850764](http://ieeexplore.ieee.org/document/6850764) &gt; \[citado el 10 de julio de 2014\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 Prototipo de simulador software electromecánico del pulmón
 http:\/\/catalogo.unired.edu.co\/cgi-bin\/koha\/opac-detail.pl?biblionumber=202807&query\_desc=kw%2Cwrdl%3A%20simulador
 27-04-2015
