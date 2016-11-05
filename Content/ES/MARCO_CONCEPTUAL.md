@@ -50,23 +50,27 @@ Para utilizar o aplicar estos conceptos y objetivos se han desarrollado ciertos 
 * Arquitectura Cebolla
 
 
-### 4.2.2 Arquitectura Cliente-Servidor.
+### 4.2.2 Patrón Arquitectónico
+
+Un patrón arquitectónico expresa la organización estructural fundamental de un sistema de software en un esquema. Proporciona un conjunto de subsistemas predefinidos, sus responsabilidades e incluye normas y directrices para organizando las relaciones entre ellos.
+
+### 4.2.3 Arquitectura Cliente-Servidor.
 
 El patrón Cliente-Servidor \(Client-Server Architecture\)  es un modelo de arquitectura de software que básicamente integra dos partes, sistemas cliente y sistemas de servidor, que se comunican a través de una red de ordenadores o en el mismo ordenador. La aplicación de servidor de cliente proporciona una mejor manera de compartir la carga de trabajo. El cliente siempre inicia una conexión con el servidor, mientras que el servidor siempre espera las solicitudes de cualquier cliente. Las arquitecturas cliente-servidor a veces se llaman arquitecturas de dos niveles\(Two-Tier\).
 
 Figura 2 Diagrama del patrón cliente-servidor
 
-### 4.2.3  Arquitectura en Capas
+### 4.2.4  Arquitectura en Capas
 
 El patrón de arquitectura en capas \(Layered Architecture\) se enfoca en el agrupamiento de la funcionalidad relacionada dentro de una aplicación en distintas capas que se apilan verticalmente una encima de otra. La funcionalidad dentro de cada capa está relacionada por un rol o responsabilidad común. La comunicación entre capas es explícita y ligeramente acoplada. Realizar una buena selección de las preocupaciones de cada capa apoya la flexibilidad y la facilidad de mantenimiento.
 
  Figura 3 arquitectura en capas.
 
-### 4.2.4 Arquitectura de Microservicios
+### 4.2.5 Arquitectura de Microservicios
 
 El término "Arquitectura de Microservicios" ha surgido en los últimos años para describir una forma particular de diseñar aplicaciones de software como suites de servicios desplegables de forma independiente. Si bien no existe una definición precisa de este estilo arquitectónico, existen ciertas características comunes alrededor de la organización en torno a la capacidad empresarial, el despliegue automatizado, la inteligencia en los puntos finales y el control descentralizado de lenguajes y datos \[6\].
 
-### 4.2. Modelo Vista Controlador \(MVC\).
+### 4.2.6 Modelo Vista Controlador \(MVC\).
 
 ### 4.2. Desarrollo Front-End.
 
@@ -75,14 +79,6 @@ El término "Arquitectura de Microservicios" ha surgido en los últimos años pa
 ### 4.2. Middleware.
 
 ### 4.2. Protocolos.
-
-### 4.2. Servidor Virtual Privado \(VPS\).
-
-### 4.2. Dominios de internet.
-
-### 4.2.  Secure Sockets Layer \(SSL\).
-
-### 4.2. HTTPS
 
 \[1\] https:\/\/msdn.microsoft.com\/en-us\/library\/ee658098.aspx
 
@@ -95,4 +91,6 @@ El término "Arquitectura de Microservicios" ha surgido en los últimos años pa
 \[5\] L. Bass, P. Clements, R. Kazman, Software Architecture in Practice, 2nd Edition, Addison Wesley, 2003
 
 \[6\] http:\/\/www.martinfowler.com\/articles\/microservices.html
+
+\[7\] http:\/\/www.nyu.edu\/classes\/jcf\/g22.3033-007\/slides\/session2\/g22\_3033\_011\_c23.pdf
 
