@@ -8,7 +8,7 @@ Philippe Kruchten, Grady Booch, Kurt Bittner y Rich Reitman derivaron y perfecci
 
 "La arquitectura de software abarca el conjunto de decisiones importantes sobre la organización de un sistema de software que incluye la selección de los elementos estructurales y sus interfaces de las que se compone el sistema; Comportamiento especificado en la colaboración entre esos elementos; Composición de estos elementos estructurales y de comportamiento en subsistemas más grandes; Y un estilo arquitectónico que guía a esta organización. La arquitectura del software también implica funcionalidad, usabilidad, resistencia, rendimiento, reutilización, comprensibilidad, limitaciones económicas y tecnológicas, compromisos y preocupaciones estéticas ".
 
-¿Por qué es importante la arquitectura de software? Al igual que en la creacion de cualquier otra estructura compleja, el software debe construirse sobre bases solidas. 
+¿Por qué es importante la arquitectura de software? Al igual que en la creacion de cualquier otra estructura compleja, el software debe construirse sobre bases solidas.
 
 Figura 1: Usuario, negocio y sistema como objetivos.
 
@@ -45,30 +45,40 @@ Para utilizar o aplicar estos conceptos y objetivos se han desarrollado ciertos 
 
 * Arquitectura Orientada a Servicios \(SOA\)
 
+* Arquitectura de Microservicios
+
 * Arquitectura Cebolla
 
 
+### 4.2.2 Arquitectura Cliente-Servidor.
 
+El patrón Cliente-Servidor \(Client-Server Architecture\)  es un modelo de arquitectura de software que básicamente integra dos partes, sistemas cliente y sistemas de servidor, que se comunican a través de una red de ordenadores o en el mismo ordenador. La aplicación de servidor de cliente proporciona una mejor manera de compartir la carga de trabajo. El cliente siempre inicia una conexión con el servidor, mientras que el servidor siempre espera las solicitudes de cualquier cliente. Las arquitecturas cliente-servidor a veces se llaman arquitecturas de dos niveles\(Two-Tier\).
 
-### 4.2.2 Modelo Vista Controlador \(MVC\).
+Figura 2 Diagrama del patrón cliente-servidor
 
-### 4.2.3 Desarrollo Front-End.
+### 4.2.3  Arquitectura en Capas 
 
-### 4.2.4 Desarrollo Back-End.
+El patrón de arquitectura en capas \(Layered Architecture\) se enfoca en el agrupamiento de la funcionalidad relacionada dentro de una aplicación en distintas capas que se apilan verticalmente una encima de otra. La funcionalidad dentro de cada capa está relacionada por un rol o responsabilidad común. La comunicación entre capas es explícita y ligeramente acoplada. Realizar una buena selección de las preocupaciones de cada capa apoya la flexibilidad y la facilidad de mantenimiento.
 
-### 4.2.5 Middleware.
+  Figura 3 arquitectura en capas.
 
-### 4.2.6 Protocolos.
+### 4.2. Modelo Vista Controlador \(MVC\).
 
-### 4.2.7 Servidor Virtual Privado \(VPS\).
+### 4.2. Desarrollo Front-End.
 
-### 4.2.8 Dominios de internet.
+### 4.2. Desarrollo Back-End.
 
-### 4.2.9  Secure Sockets Layer \(SSL\).
+### 4.2. Middleware.
 
-### 4.2.10 HTTPS
+### 4.2. Protocolos.
 
+### 4.2. Servidor Virtual Privado \(VPS\).
 
+### 4.2. Dominios de internet.
+
+### 4.2.  Secure Sockets Layer \(SSL\).
+
+### 4.2. HTTPS
 
 \[1\] https:\/\/msdn.microsoft.com\/en-us\/library\/ee658098.aspx
 
@@ -78,7 +88,5 @@ Para utilizar o aplicar estos conceptos y objetivos se han desarrollado ciertos 
 
 \[4\] https:\/\/www.pearsonhighered.com\/program\/Fowler-Patterns-of-Enterprise-Application-Architecture\/PGM298863.html
 
-\[5\] L. Bass, P. Clements, R. Kazman, Software Architecture in Practice, 2nd Edition, Addison Wesley, 2003 
-
-
+\[5\] L. Bass, P. Clements, R. Kazman, Software Architecture in Practice, 2nd Edition, Addison Wesley, 2003
 
