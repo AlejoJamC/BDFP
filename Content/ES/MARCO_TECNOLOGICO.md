@@ -92,11 +92,13 @@ Npm es una colección publica de paquetes para fornt-end apps, mobile apps, robo
 
 #### 4.4.5.1 Express.js
 
-que está diseñado como un marco de trabajo minimalista y flexible para aplicaciones web que proporciona un sólido conjunto de características para la web y aplicaciones móviles {7}.
+La definición clara y sencilla es rápido, dogmático y minimalista marco de trabajo web.\[12\]
+
+Una versión más detallada seria que Expressjs es un marco de trabajo web relativamente pequeño que se opera encima de todas las funciones del servidor web de Node.js. Esto con el fin de simplificar su API y añadir nuevas funciones útiles. Facilita la organización de dichas funcionalidades a través de sus middleware y enrutamiento; Añade ayudas y utilidades a los objetos HTTP de Node.js; Facilita la renderización de vistas HTML dinámicas; Define un estándar de extensibilidad fácil de implementar \(plug-ins\). Las aplicaciones escritas con Expressjs son ligeras pero robustas en el conjunto de características con las que son creadas ya sea para la web o su versión de móviles, el desempeño del runtime de Nodejs y sus beneficios orientados a evento y sin bloqueos permanecen intactos ya que fue creado con una filosofía dogmática la cual no impone una guía o estilo de hacer o direccionar las cosas para que el framework funcione, el desarrollador siempre tiene en sus manos las decisiones y el control de como procesar y mostrar resultados.\[13\]
 
 #### 4.4.5.2 Bootstrap
 
-en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto {9}.
+en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto. \[14\]
 
 ### 4.4. Arduino
 
@@ -123,4 +125,16 @@ en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo 
 \[10\] https:\/\/nodejs.org\/en\/about\/
 
 \[11\] https:\/\/docs.npmjs.com\/getting-started\/what-is-npm
+
+\[12\] http:\/\/expressjs.com\/
+
+\[13\] Libro: Express in Action
+
+\[14\]  Otto, Mark, Jacob, Twitter Inc. Bootstrap Designed for everyone, everywhere, recuperado de: http:\/\/getbootstrap.com\/
+
+
+
+
+
+
 
