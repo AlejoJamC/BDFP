@@ -84,6 +84,10 @@ Node está diseñado e influenciado por sistemas como la máquina de eventos de 
 
 ### 4.4.4 NPM
 
+Npm son muchas cosas, se hará referencia como el gestor de paquetes para JavaScript – Node.js. Creado en el 2009 como un proyecto de software libre para ayudar a los desarrolladores a encontrar, compartir y reutilizar paquetes de código de cientos de miles de desarrolladores que aportan a esta plataforma.
+
+Npm es una colección publica de paquetes para fornt-end apps, mobile apps, robots, routers y otra cantidad de módulos y código de la comunidad la cual cuenta con su propia línea de comandos cliente que les permite a los desarrolladores instalar y publicar todos esos paquetes. \[11\]
+
 ### 4.4.5 Frameworks
 
 #### 4.4.5.1 Express.js
@@ -121,4 +125,6 @@ en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo 
 \[9\] https:\/\/nodejs.org\/en\/
 
 \[10\] https:\/\/nodejs.org\/en\/about\/
+
+\[11\] https:\/\/docs.npmjs.com\/getting-started\/what-is-npm
 
