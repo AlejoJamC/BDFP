@@ -7,18 +7,14 @@
 * Auscultación cardiaca
 * IT
 * I\/O
-* middleware 
-
+* middleware
 * NPM
 * Palpación
-
 * Percusión
-
 * Raspberry Pi
+* runtime
 * Semiologia
 * Simulador medico
 * Sonido del corazón normal
 * Sonido del corazón anormal
-* runtime
-* 
 
