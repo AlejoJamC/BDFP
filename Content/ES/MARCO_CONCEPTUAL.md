@@ -111,9 +111,7 @@ El backend normalmente consta de tres partes: un servidor, una aplicación y una
 
 El Middleware es una capa de software o un conjunto de sub-capas interpuestas entre los niveles de aplicación y tecnología. Su característica de ocultar los detalles de las diferentes tecnologías es fundamental para eximir al programador de temas que no están directamente relacionados con su enfoque. El middleware está ganando cada vez más importancia en los últimos años debido a su importante papel en la simplificación del desarrollo de nuevos servicios y la integración de las tecnologías existentes en otros nuevos. \[11\]
 
-### 4.2.12 Runtime.
-
-### 4.2.13 Framework.
+### 4.2.12 Framework.
 
 Un framework, o software framework, es una plataforma para desarrollar aplicaciones de software. Proporciona una base en la que los desarrolladores de software pueden crear programas para una plataforma específica. Por ejemplo, un marco puede incluir clases y funciones predefinidas que se pueden utilizar para procesar entradas, administrar dispositivos de hardware e interactuar con el software del sistema. Esto agiliza el proceso de desarrollo ya que los programadores no necesitan reinventar la rueda cada vez que desarrollan una nueva aplicación.
 
