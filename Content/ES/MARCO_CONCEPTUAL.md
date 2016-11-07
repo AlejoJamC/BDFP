@@ -115,6 +115,12 @@ El Middleware es una capa de software o un conjunto de sub-capas interpuestas en
 
 ### 4.2.13 Framework.
 
+Un framework, o software framework, es una plataforma para desarrollar aplicaciones de software. Proporciona una base en la que los desarrolladores de software pueden crear programas para una plataforma específica. Por ejemplo, un marco puede incluir clases y funciones predefinidas que se pueden utilizar para procesar entradas, administrar dispositivos de hardware e interactuar con el software del sistema. Esto agiliza el proceso de desarrollo ya que los programadores no necesitan reinventar la rueda cada vez que desarrollan una nueva aplicación.
+
+Un framework es similar a una interfaz de programación de aplicaciones \(API\), aunque técnicamente un framework incluye una API. Como su nombre indica, un marco sirve como una base para la programación, mientras que una API proporciona acceso a los elementos soportados por el marco. Un marco también puede incluir bibliotecas de código, un compilador y otros programas utilizados en el proceso de desarrollo de software.
+
+Un framework puede ser referenciado como una arquitectura ya que es un estilo que incorpora elementos de diseño específicos. Obviamente, un framework necesita tener un diseño. Su arquitectura está separada de la colección de métodos que implementa y de la aplicación de una metodología de implementación específica. Esencialmente, una arquitectura implementa asociaciones entre objetos - herencia, contenedor, proxy, colección, etc. Las arquitecturas tienen el atributo interesante de que, si no te gustan, normalmente puedes ignorarlas o reemplazarlas \(al menos al principio de un proyecto\). Las arquitecturas pueden y son útiles porque crean una estructura reutilizable \(una colección de objetos\) que proporcionan alguna funcionalidad mejorada, pero una vez que empiece a usarlas, está prácticamente atascado con ellas, a menos que realice alguna refactorización importante. \[12\]
+
 \[1\] https:\/\/msdn.microsoft.com\/en-us\/library\/ee658098.aspx
 
 \[2\] http:\/\/www.lucemorker.com\/blog\/introduction-to-software-architecture
@@ -136,4 +142,6 @@ El Middleware es una capa de software o un conjunto de sub-capas interpuestas en
 \[10\] http:\/\/www.lab.inf.uc3m.es\/~a0080802\/RAI\/mvc.html
 
 \[11\]  ATZORI, Luigi; LERA, Antonio y MORABITO, Giacomo. Journal Computer Networks: The International Journal of Computer and Telecommunications Networking. The Internet of Things: A survey \[en línea\] Disponible en: [https:\/\/cs.uwaterloo.ca\/~brecht\/courses\/854-Emerging-2014\/readings\/iot\/iot-survey.pdf](https://cs.uwaterloo.ca/~brecht/courses/854-Emerging-2014/readings/iot/iot-survey.pdf) \[citado el 01 de Junio de 2010\]
+
+\[12\] http:\/\/www.codeproject.com\/Articles\/5381\/What-Is-A-Framework
 
