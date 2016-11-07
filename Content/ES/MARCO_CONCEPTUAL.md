@@ -111,6 +111,10 @@ El backend normalmente consta de tres partes: un servidor, una aplicación y una
 
 El Middleware es una capa de software o un conjunto de sub-capas interpuestas entre los niveles de aplicación y tecnología. Su característica de ocultar los detalles de las diferentes tecnologías es fundamental para eximir al programador de temas que no están directamente relacionados con su enfoque. El middleware está ganando cada vez más importancia en los últimos años debido a su importante papel en la simplificación del desarrollo de nuevos servicios y la integración de las tecnologías existentes en otros nuevos. \[11\]
 
+#### 4.2.12 Runtime.
+
+
+
 \[1\] https:\/\/msdn.microsoft.com\/en-us\/library\/ee658098.aspx
 
 \[2\] http:\/\/www.lucemorker.com\/blog\/introduction-to-software-architecture

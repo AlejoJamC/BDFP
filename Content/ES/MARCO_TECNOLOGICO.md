@@ -76,11 +76,17 @@ Y finalmente se puede acceder de forma directa a Firebase Realtime Database desd
 
 ### 4.4.3 Node.js
 
-es un intérprete de javascript contruido sobre el motor de javascript V8 de Chrome {5}.
+Node.js es una software tipo biblioteca Runtime de JavaScript construido con el motor JavaScript de V8 de Chrome\[8\]. Node.js utiliza un modelo orientado a eventos, sin bloqueo en I\/O \(entradas\/salidas\) lo que lo hace ligero y eficiente. Además, cuenta con uno de los ecosistemas de paquetes o manejador de paquetes llamado npm, el cual es uno de los mayores ecosistemas de bibliotecas de código abierto del mundo.\[9\]
 
-### 4.4.4 Frameworks
+Entre sus principales características tenemos el runtime orientado a eventos, el cual está diseñado para construir aplicaciones escalabres en la red, pueden manejar una gran cantidad de conexiones concurrentes si sufrir pérdidas, ya que cada conexión enciende una respuesta y si Node detecta que el trabajo ya finalizo o no recibe solicitudes es enviado al modo reposo. Esto contrasta con los modelos de hilos de los sistemas operativos comunes, ya que la interconexión con el modelo basado en hilos es relativamente ineficiente y difícil de usar.
 
-#### 4.4.4.1 Express.js
+Node está diseñado e influenciado por sistemas como la máquina de eventos de Ruby o el motor orientado a eventos Twisted de Python.\[10\]
+
+### 4.4.4 NPM
+
+### 4.4.5 Frameworks
+
+#### 4.4.5.1 Express.js
 
 que está diseñado como un marco de trabajo minimalista y flexible para aplicaciones web que proporciona un sólido conjunto de características para la web y aplicaciones móviles {7}.
 
@@ -92,9 +98,9 @@ Bootstrap
 
 en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto {9}.
 
-### 4.4.5 Arduino
+### 4.4. Arduino
 
-### 4.4.6 Raspberry Pi
+### 4.4. Raspberry Pi
 
 \[1\] https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/About\_JavaScript
 
@@ -109,4 +115,10 @@ en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo 
 \[6\] https:\/\/docs.mongodb.com\/manual\/introduction\/
 
 \[7\] https:\/\/firebase.google.com\/docs\/database\/
+
+\[8\] https:\/\/developers.google.com\/v8\/
+
+\[9\] https:\/\/nodejs.org\/en\/
+
+\[10\] https:\/\/nodejs.org\/en\/about\/
 
