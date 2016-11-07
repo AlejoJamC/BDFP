@@ -100,13 +100,13 @@ Una versión más detallada seria que Expressjs es un marco de trabajo web relat
 
 en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto. \[14\]
 
-### 4.4. Arduino.
+### 4.4.6 Arduino.
 
 Es una plataforma electrónica y de programación en arquitectura abierta con una amplia gama de aplicaciones en ciencias exactas e ingeniería. La plataforma de este sistema gira alrededor de la familia de microcontroladores ATMEL y por medio de un entorno de programación, con las herramientas necesarias integradas para diseñar y desarrollar aplicaciones de manera sencilla en los lenguajes C y C++, representa un sistema empotrado \(embedded system\) de propósito específico para automatizar procesos físicos.
 
 El posicionamiento vertiginoso de arduino en la industrial, universidades y centros de investigación de la actualidad, se debe en parte a su filosofía de arquitectura abierta que permite a los usuarios crear elementos a la medida, además de todas las funcionalidades para monitorear y controlar sensores análogos y digitales.\[
 
-### 4.4. Raspberry Pi.
+### 4.4.7 Raspberry Pi.
 
 Raspberry Pi es un ordenador del tamaño de una tarjeta de crédito diseñado y fabricado en el Reino Unido con la intención inicial de proporcionar un dispositivo informático barato para la educación. Desde que fue liberado al público, ha crecido mucho más allá de la esfera de la academia.
 
@@ -145,6 +145,4 @@ La liberación comercial inicial de la Raspberry Pi fue en febrero de 2012. Desd
 \[15\] Libro: Arduino. Aplicacione en robotica mecatronica e ingenierias.
 
 \[16\] Libro: Raspberry Pi Computer Architecture Essentials
-
-
 
