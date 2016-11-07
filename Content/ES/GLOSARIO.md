@@ -13,11 +13,13 @@
 * **NPM:**  Node Package Manager, como su nombre lo dice es el manejador de paquetes de Node, esta herramienta es la encargada de añadir los nuevos módulos requeridos en la aplicación. 
 * **Palpación:** Aplicando el choque de punta, se realiza una inspeccion fisica en el pecho del paciente.
 * **Palpitaciones cardíacas:** Son sensaciones de latidos cardíacos que se perciben como si el corazón estuviera latiendo con violencia o acelerado. Pueden sentirse en el pecho, la garganta o el cuello. 
-* Percusión:
-* Raspberry Pi:
-* runtime:
-* Semiologia:
-* Simulador medico:
-* Sonido del corazón normal:
-* Sonido del corazón anormal:
+* **Percusión:**  La percusión cardiaca es un método muy subjetivo y expuesto a error. Se realiza golpes percutorios en puntos específicos del tórax, pero se pueden mezclar los sonidos repuesta del corazón \(sonido mate\) y del pulmón \(sonido timpánico\).
+* **Raspberry Pi: ** Raspberry Pi es un ordenador del tamaño de una tarjeta de crédito diseñado y fabricado en el Reino Unido con la intención inicial de proporcionar un dispositivo informático barato para la educación. 
+* **runtime:**  es una colección de funciones de utilidad las cuales soporta un programa mientras se está ejecutando, trabajando con el sistema operativo para suministrar facilidades tales como funciones matemáticas, entrada y salida. la 
+* **Semiologia:**  La semiología es la ciencia que estudia los sistemas de signos: lenguas, 
+  códigos, señalaciones, etc. La función del signo consiste en comunicar ideas por medio de mensajes. Esta operación implica un objeto, una cosa de la que se habla o referente, signos y por lo tanto un código un medio de transmisión y evidentemente, un emisor y un destinatario.
+
+* **Simulador medico:**  La simulación médica es una rama de la tecnología de simulación con relación a la educación y la formación en campos de la salud y diferentes industrias. El concepto de educación médica basada en las simulaciones es reconocido actualmente como una asistencia necesaria para asegurar el aprendizaje en las áreas de la salud y para mejorar la seguridad del paciente. Su objetivo principal es la de formar profesionales del área de la salud para reducir los accidentes durante cirugía, prescripción y prácticas en general.
+* **Sonido del corazón normal: ** todo corazón produce sonidos rítmicos muy característicos: cada latido de un corazón sano está compuesto por dos sonidos cuyas onomatopeyas habituales son “lub” \(primer sonido\) y “dub” \(segundo sonido\). Estos sonidos se generan cuando las válvulas cardiacas se cierran y la sangre fluye por el corazón. Esto se conoce como sonidos normales del corazón. 
+* **Sonido del corazón anormal: ** Soplos y otros ruidos cardíacos, soplos o sonidos del tórax, tonos o ruidos cardíacos anormales, soplo inocente, soplo cardíaco sistólico o soplo cardíaco diastólico son ruidos silbantes, chirriantes o ásperos que se escuchan durante un latido cardíaco. El ruido es ocasionado por un flujo sanguíneo turbulento a través de las válvulas cardíacas o cerca al corazón. Todos estos sonidos se consideran sonidos anormales del corazón.
 
