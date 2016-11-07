@@ -100,9 +100,19 @@ Una versión más detallada seria que Expressjs es un marco de trabajo web relat
 
 en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo y móvil, este marco hace que la interfaz cliente será mucho mas sencilla y rápida de desarrollar, protegiendo la integridad y las proporciones en los distintos dispositivos en los que se visualiza el proyecto. \[14\]
 
-### 4.4. Arduino
+### 4.4. Arduino.
 
-### 4.4. Raspberry Pi
+Es una plataforma electrónica y de programación en arquitectura abierta con una amplia gama de aplicaciones en ciencias exactas e ingeniería. La plataforma de este sistema gira alrededor de la familia de microcontroladores ATMEL y por medio de un entorno de programación, con las herramientas necesarias integradas para diseñar y desarrollar aplicaciones de manera sencilla en los lenguajes C y C++, representa un sistema empotrado \(embedded system\) de propósito específico para automatizar procesos físicos.
+
+El posicionamiento vertiginoso de arduino en la industrial, universidades y centros de investigación de la actualidad, se debe en parte a su filosofía de arquitectura abierta que permite a los usuarios crear elementos a la medida, además de todas las funcionalidades para monitorear y controlar sensores análogos y digitales.\[
+
+### 4.4. Raspberry Pi.
+
+Raspberry Pi es un ordenador del tamaño de una tarjeta de crédito diseñado y fabricado en el Reino Unido con la intención inicial de proporcionar un dispositivo informático barato para la educación. Desde que fue liberado al público, ha crecido mucho más allá de la esfera de la academia.
+
+Sus orígenes se pueden encontrar en el laboratorio de informática de la Universidad de Cambridge en 2006. La preocupación de sus creadores era que los estudiantes de pregrado de ciencias de la computación se estaban alejando de la parte técnica de la computación ya que se hacía mucho énfasis en cómo usar las computadoras y no entender cómo funcionaban. El equipo trabajó en el desarrollo de un dispositivo barato y accesible que ayudaría a las escuelas a enseñar conceptos como la programación, acercando así a los estudiantes a entender cómo funciona la informática.
+
+La liberación comercial inicial de la Raspberry Pi fue en febrero de 2012. Desde entonces, la tarjeta ha pasado por una serie de revisiones y esta disponible en dos modelos, el modelo A y el modelo B. El modelo A es el dispositivo más barato y más simple de los dos ordenadores y el modelo B el más potente, incluido el apoyo a la conectividad Ethernet. En febrero de 2015, la Raspberry Pi 2 Modelo B fue liberado. \[16\]
 
 \[1\] https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/JavaScript\/About\_JavaScript
 
@@ -132,9 +142,9 @@ en el marco de trabajo mas popular para HTML, CSS y JS en el diseño responsivo 
 
 \[14\]  Otto, Mark, Jacob, Twitter Inc. Bootstrap Designed for everyone, everywhere, recuperado de: http:\/\/getbootstrap.com\/
 
+\[15\] Libro: Arduino. Aplicacione en robotica mecatronica e ingenierias.
 
-
-
+\[16\] Libro: Raspberry Pi Computer Architecture Essentials
 
 
 
